@@ -1,5 +1,6 @@
 
 # Complete Project Description: Speak the Meaning
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79241e5f-dda2-4005-968a-d8219c570035" />
 
 ## Overview
 **Speak the Meaning** is a Python-based interactive dictionary application that combines text-to-speech functionality with online dictionary lookup capabilities. The project allows users to input words and receive both visual and audio feedback with their meanings, definitions, and parts of speech.
