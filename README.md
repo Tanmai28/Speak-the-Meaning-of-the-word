@@ -1,5 +1,4 @@
 
-# Complete Project Description: Speak the Meaning
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79241e5f-dda2-4005-968a-d8219c570035" />
 
 ## Overview
